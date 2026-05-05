@@ -2,7 +2,7 @@
 
 **The JWST Early Galaxy Crisis Resolved by a Reionization Degeneracy**
 
-Wang & Shan (2026) — [arXiv:26XX.XXXXX]
+Wang & Shan (2026) 
 
 ## Summary
 
@@ -69,18 +69,7 @@ python plot_figures.py
 - **τ_e**: Planck 2018 (Aghanim et al. 2020)
 - **x_HI(z)**: Bosman et al. (2022), Greig et al. (2022), Umeda et al. (2024)
 
-## Citation
 
-```bibtex
-@article{Wang:2026jwst,
-    author = "Wang, Zihan and Shan, Huanyuan",
-    title = "{The JWST Early Galaxy Crisis Resolved by a Reionization Degeneracy}",
-    year = "2026",
-    eprint = "26XX.XXXXX",
-    archivePrefix = "arXiv",
-    primaryClass = "astro-ph.CO"
-}
-```
 
 ## License
 
